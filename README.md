@@ -17,11 +17,11 @@ Popular Linux IPC mechanism
 have been used for the same.
 
 ## How to compile & Run the Code
-'''
+```
 Run the ​ make
 In order to run server do ​ ./server
 In order to connect the clients do ​ ./client
-'''
+```
 
 ## Basic Ideas Behind the Code : Logics 
 
