@@ -1,6 +1,5 @@
-# Multi User Chat System
-
-=========
+Multi User Chat System
+======
 
 ## Problem Statement 
 
