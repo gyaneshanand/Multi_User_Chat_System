@@ -1,20 +1,29 @@
-# Multi_User_Chat_System
+# Multi User Chat System
+
+
 
 ## Problem Statement 
 
 Design and implementation of a multi user chat system that is like a real-time instant
 message board system, much like IRC. The users should be able to talk to one another
 and to everyone else. The system needs to make sure which message is meant for
-whom – for individual user or for everyone. The message meant for everyone should be
-flashed on the system for everyone to view. The messages meant for individual users
-need to be handled by the individual users themselves. Popular Linux IPC mechanism
+whom – for individual user or for everyone. 
+- The message meant for everyone should be
+flashed on the system for everyone to view. 
+- The messages meant for individual users
+need to be handled by the individual users themselves.
+
+Popular Linux IPC mechanism
 have been used for the same.
 
 ## How to compile & Run the Code
+'''
 Run the ​ make
 In order to run server do ​ ./server
 In order to connect the clients do ​ ./client
-Basic Ideas Behind the Code : Logics 
+'''
+
+## Basic Ideas Behind the Code : Logics 
 
 There are two files present in the chat system.
 1. Server​ : Handles all the incoming connections to the server.
